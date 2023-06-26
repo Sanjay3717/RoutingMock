@@ -1,0 +1,53 @@
+.login-component {
+  background-color: #152850;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.image-bg-container {
+  background-color: #e0eefe;
+  height: 500px;
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+.login-image {
+  height: 350px;
+  width: 350px;
+}
+.app-container {
+  background-color: #ffffff;
+  height: 500px;
+  width: 900px;
+  display: flex;
+  align-items: center;
+}
+.welcome-heading {
+  color: #183b56;
+}
+.label-item {
+  color: #183b56;
+  font-weight: 600;
+}
+.input-item {
+  width: 300px;
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-width: 0px;
+  border-bottom-width: 1px;
+  padding: 10px;
+}
+.login-button {
+  width: 300px;
+  height: 40px;
+  background-color: #1565d8;
+  color: #ffffff;
+  cursor: pointer;
+  border-width: 0px;
+  border-radius: 10px;
+}

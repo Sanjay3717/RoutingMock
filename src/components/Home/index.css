@@ -1,0 +1,35 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.top-container {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  align-items: center;
+}
+.logout-btn {
+  background: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  border-width: 1px;
+
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+}
+.quote-word {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.bottom-container {
+  text-align: center;
+  padding-top: 50px;
+}
+.digital-card {
+  height: 250px;
+  width: 400px;
+}
